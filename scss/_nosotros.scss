@@ -1,4 +1,4 @@
-@import "colores";
+@use "colores" as *;
 
 @mixin column-wrap {
     display: flex;

@@ -1,4 +1,4 @@
-@import "colores";
+@use "colores" as *;
 
 .header{
     grid-area: hd;
@@ -55,6 +55,5 @@
         list-style: none;
         display: none;
         position: absolute;
-        }
     }
 }

@@ -1,8 +1,8 @@
-@import "colores";
-@import "header";
-@import "productos";
-@import "nosotros";
-@import "main";
+@use "colores" as *;
+@use "header";
+@use "productos";
+@use "nosotros";
+@use "main";
 
 @mixin contenedor {
     width: 100%;
