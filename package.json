@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/matias-ac/curso-coderhouse-javascript.git"
+    "url": "git+https://github.com/matias-ac/curso-coder-desarrollo-web.git"
   },
   "author": "Matías Ariel Castro",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/matias-ac/curso-coderhouse-javascript/issues"
+    "url": "https://github.com/matias-ac/curso-coder-desarrollo-web/issues"
   },
-  "homepage": "https://github.com/matias-ac/curso-coderhouse-javascript#readme",
+  "homepage": "https://github.com/matias-ac/curso-coder-desarrollo-web#readme",
   "devDependencies": {
     "nodemon": "^3.1.11",
     "sass": "^1.97.2"
